@@ -4,6 +4,7 @@
   "author": "Vox Pupuli",
   "summary": "Puppet NGINX management module",
   "license": "MIT",
+  "tags": [ "webserver", "nginx", "lnmp" ],
   "source": "https://github.com/voxpupuli/puppet-nginx.git",
   "project_page": "http://github.com/voxpupuli/puppet-nginx",
   "issues_url": "https://github.com/voxpupuli/puppet-nginx/issues",
